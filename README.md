@@ -8,16 +8,3 @@ aufbauen. Somit wird sich das Projekt evolutionär Weiterentwicklen.
 
 
 Row-Projekt(maven)--> Versionskontrolle --> Bauen --> Deploy
-
-
-
-
-
-
-
-
-
-### CICD Projekt Entwickler
-**Tobias Bodo** [di39258](https://gitlab.dillinger.de/di39258)
-
-**Lennart Röpnack** [di39915](https://gitlab.dillinger.de/di39915)
